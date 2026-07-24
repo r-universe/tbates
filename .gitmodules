@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ggwas"]
+	path = ggwas
+	url = https://github.com/bczech/ggwas
+	registered = false
 [submodule "umx"]
 	path = umx
 	url = https://github.com/tbates/umx
